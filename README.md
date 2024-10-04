@@ -1,16 +1,52 @@
-# my_quote_app
+명언 앱 (my_quote_app)
+이 Flutter 프로젝트는 명언을 보여주는 간단한 앱입니다.
 
-A new Flutter project.
+시작하기
+이 프로젝트는 Flutter 애플리케이션 개발의 시작점입니다. 앱은 명언을 랜덤으로 보여주고, 명언을 추가하거나 삭제할 수 있으며, 명언을 공유하는 기능도 포함되어 있습니다.
 
-## Getting Started
+주요 기능
+랜덤 명언 표시: 저장된 명언을 랜덤하게 선택하여 화면에 표시합니다.
+명언 추가: 사용자가 직접 명언과 작가를 입력하여 앱에 추가할 수 있습니다.
+명언 삭제: 명언을 길게 누르면 해당 명언을 삭제할 수 있습니다.
+명언 공유: 앱에서 마음에 드는 명언을 다른 사람과 쉽게 공유할 수 있습니다.
+명언 저장: 사용자가 추가한 명언은 로컬 저장소에 저장되어, 앱을 종료해도 유지됩니다.
+사용 방법
+앱을 실행하면 기본 명언이 화면에 표시됩니다.
+화면 하단의 **추가 버튼(+)**을 눌러 새로운 명언과 작가를 입력할 수 있습니다.
+명언이 화면에 표시된 상태에서 **새로고침 버튼(↻)**을 눌러 다음 명언을 확인할 수 있습니다.
+공유 버튼을 눌러 명언을 다른 사람에게 공유할 수 있습니다.
+명언을 길게 누르면 해당 명언이 삭제됩니다.
+설치 및 실행
+Flutter 환경을 설치합니다. Flutter 설치 가이드: Flutter 설치.
+이 프로젝트를 로컬로 복제하거나 다운로드합니다:
+bash
+코드 복사
+git clone <레포지토리 URL>
+프로젝트 폴더로 이동합니다:
+bash
+코드 복사
+cd my_quote_app
+필요한 패키지를 설치합니다:
+bash
+코드 복사
+flutter pub get
+앱을 실행합니다:
+bash
+코드 복사
+flutter run
+의존성
+이 프로젝트는 다음과 같은 패키지를 사용합니다:
 
-This project is a starting point for a Flutter application.
+shared_preferences: 로컬 저장소에 명언 데이터를 저장하기 위해 사용됩니다.
+share_plus: 명언을 외부로 공유하는 기능을 구현하기 위해 사용됩니다.
+추가 정보
+Flutter 개발에 대한 더 많은 정보는 Flutter 공식 문서를 참고하세요: Flutter 공식 문서
 
-A few resources to get you started if this is your first Flutter project:
+이 앱은 새로운 Flutter 프로젝트를 시작하는 데 좋은 예시가 될 수 있으며, Flutter 앱 개발에 익숙하지 않으신 분들은 아래 링크에서 시작할 수 있습니다:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+첫 번째 Flutter 앱 만들기
+Flutter Cookbook
+기여
+이 프로젝트에 기여하고 싶다면, 이슈를 제출하거나 풀 리퀘스트를 보내주세요.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+이 리드미는 명언 앱의 주요 기능과 설치 방법을 한국어로 설명하고 있습니다. 앱 개발과 관련하여 궁금한 점이 있으면 언제든지 문의해주세요!
