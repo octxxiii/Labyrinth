@@ -1,5002 +1,597 @@
 [
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "1. 간단히 말해서, 음악이 없는 삶은 잘못된 삶이며, 피곤한 삶이며, 유배당한 삶이기도 하다.",
+        "english": "Simply put, life without music is a wrong life, a weary life, and a life of exile.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "2. 강한 신앙을 동경하는 것은 강한 신앙의 증거가 아니라 그 반대이다. 사람이 강한 신앙을 지닌다면 그 사람은 회의론의 사치에 빠질 수 있다.",
+        "english": "Respecting a strong faith is not proof of a strong faith, but vice versa. If a person has a strong faith, he or she can fall into the luxury of skepticism.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "3. 개성을 가진 인간은 언제나 되풀이되는 전형적인 체험을 갖는다.",
+        "english": "A person with a personality has a typical experience that is always repeated.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "4. 겉모습이란 진실인 척하는 것이다.",
+        "english": "Appearance is to pretend to be true.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "5. 결혼, 그것은 하나를 만들려고 하는 두 사람의 의지다. 단지 그 하나를 이루려는 것은 두 개 이상의 것이다. 이와 같은 의지를 의지하는 자로써, 서로의 곤경을 같이 치러주는 것을 나는 결혼이라 부른다.",
+        "english": "Marriage, that's the will of the two to make one. It is more than one thing to achieve. As a man of this will, I call it marriage to deal with each other's plight.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "6. 결혼 생활은 긴 대화이다.",
+        "english": "Marriage is a long conversation.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "7. 결혼하기 전 당신 자신에게 다음과 같은 질문을 해보라. 즉 나는 이 여자와 늙어서도 여전히 대화를 잘 나눌 수 있을까?",
+        "english": "Before you get married, ask yourself the following questions: In other words, can I still have a good conversation with this woman even when I'm old?",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "8. 곤충은 결코 나쁜 마음이 있어서가 아니라 단지 살아야 한다는 본능 때문에 사람의 살을 찌르는 것이다. 그것은 평론가도 마찬가지다. 평론가가 필요로 하는 것은 우리들의 살 속에 있는 피이고 따라서 그들에게 우리의 괴로움 따위는 아무 문제도 되지 않는 것이다.",
+        "english": "Insects never have a bad mind, but they are flesh-eating because of their instinct to live. It is the same with the critic. What the reviewer needs is blood in our flesh and therefore our distress is no problem to them.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "9. 공동 재산, 스스로 모순되는 낱말이다. 공동의 것은 아무런 가치도 지니지 못한다.",
+        "english": "Common property, a word that contradicts itself. A common thing has no value.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "10. 괴물과 싸우는 사람은 그 싸움 속에서 스스로도 괴물이 되지 않도록 조심해야 한다. 우리가 괴물의 심연을 오래동안 들여다 본다면, 그 심연 또한 우리를 들여다 보게될 것이다.",
+        "english": "A man who fights a monster must be careful not to become a monster himself in the fight. If we look into the monster's abyss for a long time, the abyss will also look into us.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "니체의 명언 모음",
+        "english": "11. 그 여자는 아름답고 영리하다. 그러나 유감스럽도다! 그 여자가 아름답지 않았더라면 훨씬 더 영리할 수 있었을 텐데.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "She is beautiful and clever. But I'm sorry! She could have been much smarter if she wasn't beautiful.",
+        "english": "12. 근시의 남녀가 사랑을 하는 것이다. 사랑하는 남녀를 치료하기 위해서는 약간 도수높은 안경을 주면 낫는 경우가 있다.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "Near-sighted men and women love each other. To treat a man and woman you love, giving them slightly stronger glasses can sometimes make you feel better",
+        "english": "13. 차라리 고난 속에 인생의 기쁨이 있다. 풍파 없는 항해, 얼마나 단조로운가! 고난이 심할수록 내 가슴은 뛴다.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "There is rather joy in life in hardship. A voyage without wind waves, how monotonous! The more hardships I suffer, the more my heart beats.",
+        "english": "14. 창조는 괴로움의 구원인 동시에 삶의 위로인 것이다. 그러나 창조하기 위해서는 그 자신의 괴로움이 따르면서 많은 변화가 요구되는 것이다.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "Creation is both a salvation of suffering and a consolation to life. To create, however, requires a lot of change as his own suffering follows.",
+        "english": "15. 철학은 대중들에게 종교를 대신하도록 함으로써 높게 평가된다.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "Philosophy is highly valued by having the public replace religion.",
+        "english": "16. 초인이란 필요한 일을 견디어 나아갈 뿐 아니라 그 고난을 사랑하는 사람이다.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "A superman is not only a man who goes on with what he needs, but also loves his sufferings.",
+        "english": "18. 친구된 자는 마땅히 추찰(推察)과 침묵에 숙달해야 한다.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "A friend deserves to master the presumption and silence.",
+        "english": "19. 침묵을 당하는 모든 진실은 독이 된다.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "All truths that are silenced become poison.",
+        "english": "니체의 명언 모음",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "20. 풍파가 없는 항해, 얼마나 단조로운가! 고난이 심할수록 내 가슴이 뛴다.",
+        "english": "A voyage without wind waves, how monotonous! The more difficult it is, the more my heart beats.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "21. 필연적인 것은 단지 참고 견디는 것이 아니라, 더구나 그것을 감싸주는 것이 아니라 사랑하는 것이다.",
+        "english": "What is inevitable is not just to persevere, but to love, not to shield it.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "22. 하루의 생활을 다음과 같이 시작하면 좋을 것이다. 즉 눈을 떴을 때 오늘 단 한 사람에게라도 좋으니 그가 기뻐할 만한 무슨 일을 할 수 없을까, 생각하라.",
+        "english": "It would be good to start a day's life as follows. In other words, when you open your eyes, it's good for just one person today, so think about what you can't do to please him.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "23. 혼혈아들은 어쩔 수 없이 뒤섞인 도덕심을 만들어가게 된다. 일반적으로 혼혈아들은 순수한 우리들에 비해서 더 심술궂고, 더 잔인하고, 정서적으로 더 불안하다.",
+        "english": "Biracial children are forced to create a mixed sense of morality. Generally, biracial children are meaner, more cruel, and more emotionally unstable than we are.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "24. 훌륭한 사람이 저지르는 잘못은 존경할 만한 가치가 있다. 그것이야말로 하찮은 사람의 진실보다도 더 유익하기 때문이다.",
+        "english": "The wrongs committed by a good man are worthy of respect. That is because it is more beneficial than the truth of a nobody.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "25. 훌륭한 친구를 가진 사람은 반드시 훌륭한 아내를 얻을 것이다. 훌륭한 결혼이라는 것은 우의(友誼)의 재능에 달린 것이기 때문이다.",
+        "english": "A man with a good friend will surely have a good wife. A good marriage depends on the gift of friendship.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "니체의 명언 모음",
+        "english": "26. 나는 운명이다.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "I'm meant to be.",
+        "english": "27. 남성과 여성이 정치 권력을 함께 담당했던 적은 한 번도 없었다. 따라서 여자는 남자와 동등한 권리를 갖지 못하며, 여자가 남자보다 열등하다는 것은 당연하다고 주저없이 주장할 수 있게 된다. 결론적으로 남자가 여성에 의해 지배된다는 것은 불가능한 일이다.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "Men and women have never been in charge of political power together. Therefore, women do not have equal rights with men, and they can claim without hesitation that it is natural that women are inferior to men. In conclusion, it is impossible for men to be dominated by women.",
+        "english": "28. 남자는 여자란 땅 덩어리, 꼭꼭 감추어 두어야 할 재산, 즉 예속 당하도록 운명 지워진 존재일 뿐 아니라 예속을 통해서 완성되는 존재라는 것을 알아야 한다.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "A man must know that a woman is not only a lump of land, a property that must be hidden, but also a creature that is destined to be subjugated, but also completed through subjugation.",
+        "english": "29. 남자의 문제인 동시에 여자의 문제인 근본적인 문제를 잘못 이해하고, 남자와 여자를 구별해 주는 본질적인 대립성과 팽팽한 긴장의 필연성을 부인하면서 평등한 권리와 동등한 교육, 그리고 평등한 특권 및 의무를 꿈꾸는 행위. 이런 행위야말로 여자의 지적인 단순함을 보여주는 전형적인 증거이다.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "The act of misinterpreting the fundamental problem of men and women, and dreaming of equal rights and equal privileges and duties, denying the inherent antagonism and necessity of tension that distinguishes men from women. This behavior is typical of women's intellectual simplicity.",
+        "english": "30. 내가 보기에, 철학은 모든 것을 위험에 빠뜨리는 무시무시한 폭탄이다.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "In my view, philosophy is a terrible bomb that puts everything in danger.",
+        "english": "31. 내가 항상 그렇게 들어 왔고, 지금까지 그렇게 행해 왔듯이, 철학을 한다는 것은 얼음 덮인 산꼭대기 위에서 기꺼이 살아가는 것이다.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "As I have always heard, and have done so so so far, philosophy is a willing life on an icy mountaintop.",
+        "english": "니체의 명언 모음",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "32. 내연 관계는 결혼 제도 때문에 타락된 개념이 되고 말았다.",
+        "english": "Internal relations have become a concept corrupted by the marriage system.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "33. 너는 안이하게 살고자 하는가? 그렇다면 항상 군중 속에 머물러 있으라. 그리고 군중에 섞여 너 자신을 잃어버려라.",
+        "english": "Do you want to live in peace? Then always stay in the crowd. And mix up in the crowd and lose yourself.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "34. 너의 양심은 무엇을 알리고 있는가. 본래의 너 자신이 되라.",
+        "english": "What is your conscience telling you? Be who you are.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "35. 더 이상 자신있게 사는 것이 불가능하다면 차라리 당당하게 죽음을 택하라.",
+        "english": "If it is impossible to live confidently anymore, choose death with dignity.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "36. 도덕에 대한 복종은 노예적이며 허영이며 이기적이며 체념이며 음울한 광기이며 사상을 버리는 것이며 절망적인 행위이다.",
+        "english": "The obedience to morality is slavery, vanity, selfishness, resignation, dismal madness, abandonment of ideas and despair.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "37. 도덕적인 경멸이야말로 인간의 품성을 손상시키는 그 어떤 종류의 범죄보다도 훨씬 더 혹독한 모욕이다.",
+        "english": "Moral contempt is a far harsher insult than any other kind of crime that impairs human character.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "38. 동정은 최고의 모욕이다.",
+        "english": "Compassion is the greatest insult.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "39. 등산의 기쁨은 정상에 올랐을 때 가장 크다. 그러나 나의 최상의 기쁨은 험악한 산을 기어올라가는 순간에 있다. 길이 험하면 험할수록 가슴이 뛴다. 인생에 있어서 모든 고난이 자취를 감췄을 때를 생각해 보라! 그 이상 삭막한 것이 없으리라.",
+        "english": "The joy of climbing is greatest when you reach the top. But my best joy lies in the moment of climbing up the rugged mountain. The harder the road is, the more heart beats. Think about when all the hardships in life disappeared! Nothing could be more stark than that.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "니체의 명언 모음",
+        "english": "40. 만일 성욕이라는 것이 이토록 맹목적이고 조심성 없고 경솔하여 사려가 없는 성질을 갖지 않았더라면 인류는 사멸하고 말았을 것이다. 원래 성욕의 만족은 전혀 종족의 번식과는 결부되어 있지 않다. 성교시에 번식의 의도가 수반된다는 것은 터무니없는 말이고 극히 드문 일이다.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "If sexual desire had not had such a blind, careless and thoughtless nature, mankind would have perished. The original gratification of sexual desire is nothing to do with the breeding of the species. It is absurd and extremely rare that sexual intercourse involves the intent of reproduction.",
+        "english": "41. 만일 음악이라는 여신이 소리 대신 말로 하였다면 사람들은 귀를 막았을 것이다.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "If the goddess of music had spoken instead of sounds, people would have covered their ears.",
+        "english": "42. 모든 신념은 거짓말보다 더 큰 진리의 위험한 적이다.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "All beliefs are dangerous enemies of truth greater than lies.",
+        "english": "43. 모든 신은 죽었다. 이제 우리는 초인超人이 살게 되길 바란다.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "All the gods are dead. Now we hope that the superhuman will live.",
+        "english": "44. 문화국가라는 것은 근대적 관념에 불과하다. 이편은 저편을 먹고 살며, 저편은 이편을 희생시켜 번영한다. 문화상의 모든 위대한 시대는 정치적으로는 몰락의 시기이다.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "Being a cultural nation is nothing more than a modern idea. This side feeds on the other side, and that side thrives at the expense of this side. Every great age in culture is a period of political collapse.",
+        "english": "45. 물론 여자는 남자의 친구가 될 수 있다. 그러나 친구관계를 튼튼하게 지켜 가기 위해서는 약간의 생리적 반감이 이를 돕지 않으면 안 된다.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "Of course a woman can be a man's friend. But in order to keep the friendship strong, some physiological antagonism must help.",
+        "english": "46. 복수와 사랑에서 여자는 보다 야만적이다.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "In revenge and love, women are more barbaric.",
+        "english": "47. 부부 생활은 길고 긴 대화 같은 것이다. 결혼 생활에서는 다른 모든 것은 변화해 가지만, 함께 있는 시간의 대부분은 대화에 속하는 것이다.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "Couples' life is like a long, long conversation. In a marriage everything else changes, but most of the time together belongs to a conversation.",
+        "english": "니체의 명언 모음",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "48. 분개한 사람만큼 거짓말 잘하는 사람은 없다.",
+        "english": "No one is as good at lying as a man of resentment.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "49. 분노라고 하는 격정만큼 남성을 빨리 소모시키는 것도 없다.",
+        "english": "Nothing burns men as fast as rage.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "50. 사람은 자기가 한 약속을 지킬만한 좋은 기억력을 가져야 한다.",
+        "english": "A person should have a good memory to keep his promises.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "51. 사람은 잠자코 있어서는 안될 경우에만 말해야 한다. 그리고 자기가 극복해 온 일들만을 말해야 한다. 다른 것은 모두 쓸데없는 것에 지나지 않는다.",
+        "english": "A person should speak only if he or she should not remain silent. And you have to tell them what you've been through. Everything else is but useless.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "52. 사람은 쾌락이라 하면 정욕을 생각한다. 감각이라 하면서 육감성을 생각한다. 육체라고 하면서 아랫배를 생각한다. 그래서 이 세가지 좋은 것 때문에 명예를 빼앗기고 만다.",
+        "english": "People think of lust when it comes to pleasure. think of sensibility as sensibility think of one's lower abdomen as one's. So these three good things cost me my honor.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "53. 사람의 가치는 타인과의 관계로서만 측정될 수 있다.",
+        "english": "The value of a person can only be measured in relation to others.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "54. 사람의 마음에 사랑이 흐를 때, 나쁜 일을 하지 않으며, 복종이나 덕이 따를 수 없는 그 이상의 것을 해낸다.",
+        "english": "When love flows into a man's heart, he does nothing bad, and does more than he cannot obey or virtue.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "55. 사랑에는 항상 약간의 광기가 섞여 있다. 그러나 또한 그 속에서도 항상 약간의 제정신도 있는 것이다.",
+        "english": "Love always has some insanity in it. But there is also always some saneness in it.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "56. 사랑을 하고 있을 때 사람들은 다른 어떤 때보다도 훨씬 더 잘 견디어 낸다. 즉, 사랑이라는 이름으로 모든 것을 감수하는 것이다.",
+        "english": "When in love, people endure much better than ever. In other words, you risk everything in the name of love.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "57. 사랑이 두려운 것은 사랑이 깨지는 것보다도 사랑이 변하는 것이다.",
+        "english": "The fear of love is that love changes more than it breaks.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "58. 삶이 있는 곳에 의지가 있다. 그러나 그 의지는 삶에의 의지가 아니라 생존하려는 의지이다.",
+        "english": "Where there is life, there is will. But that will is not a will to life, but to survive.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "니체의 명언 모음",
+        "english": "59. 선에도 강하고 악에도 강한 것이 가장 강력한 힘이다.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "Being strong in both good and evil is the most powerful force.",
+        "english": "60. 세상에는 우리의 침울한 두 눈으로 발견 할 수 있는 이상의 행복이 있는 법이다.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "There is more happiness in the world than we can find with our gloomy eyes.",
+        "english": "61. 순결을 지키기 힘든 자에게는 순결을 버리게 하라. 억지로 순결을 지키게 함으로써 그 순결이 지옥의 길을 향하게 하고, 영혼의 진흙과 음욕의 길로 변하고 마는 것보다는 오히려 그 편이 낫다.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "Let those who are hard to keep their virginity abandon it It is better for him than to force him to keep his virginity to the path of hell, and to turn into the path of the mud and sexuality of the soul.",
+        "english": "62. 쓰잘데 없는 것, 독일적인 것.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "The worthless, the German.",
+        "english": "63. 신은 죽었다. 그리스도교의 신에 대한 믿음이 믿음직스럽지 못하게 되었다는 최근의 사건이 이미 그 최초의 그림자를 유럽 위에 던지기 시작했다.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "God is dead. The recent event that Christianity's faith in God has become unreliable has already begun to cast its first shadow over Europe.",
+        "english": "64. 신이 존재한다는 것은 불가해不可解하다. 그리고 또한 신이 존재하지 않는다는 것도 불가해하다.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "It is impossible for God to exist. And it is also impossible that God does not exist.",
+        "english": "65. 심지어 우리들 중에서 가장 용기있는 사람조차도 자신이 정말로 알고 있는 용기가 뭔지 알지 못한다.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "Even the most courageous of us don't know what courage they really know.",
+        "english": "66. 아무 것도 버릴 수 없는 자는 아무 것도 느낄 수 없다.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "He who can't throw anything away can't feel",
+        "english": "67. 아침에 눈을 뜨면 무엇보다도 먼저 '오늘은 한 사람에게 만이라도 기쁨을 주어야겠다'는 생각으로 하루를 시작하라.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "When you wake up in the morning, start the day with the thought that you should give pleasure to one person first and foremost.",
+        "english": "68. 알맞은 정도라면 소유는 인간을 자유롭게 한다. 도를 넘어서면 소유가 주인이 되고 소유하는 자가 노예가 된다.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "To the right extent, possession frees man. If you go too far, the possessor becomes the master and the possessor becomes the slave.",
+        "english": "니체의 명언 모음",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "69. 어느 정도 깊이 괴로워 하느냐 하는 것이 거의 인간의 위치를 결정한다.",
+        "english": "How deep you suffer almost determines your position.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "70. 언젠가 날기를 배우려는 사람은 우선 서고, 걷고, 달리고, 오르고, 춤추는 것을 배워야 한다. 사람은 곧 바로 날 수는 없다.",
+        "english": "One day anyone who wants to learn to fly must first learn to stand, walk, run, climb and dance. Man cannot fly right away.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "71. 얼마만큼 깊이 고뇌할 수 있는가가 인간의 위치를 결정짓는다.",
+        "english": "How deep one can agonize determines one's position.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "72. 여러가지의 탄식, 어떤 남편들은 자기의 아내가 유혹당한 것을 한탄하는 반면에 대다수의 남편들은 아무도 자기의 아내를 유혹하려고 하지 않는 것을 한탄하는 것이다.",
+        "english": "A number of sighs, some husbands lament that their wives have been seduced, while the majority of husbands lament that no one is trying to seduce their wives.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "73. 여성은 남성보다 아이들을 더 많이 이해하지만, 남성은 여성보다도 더 어린 아이 같다.",
+        "english": "Women understand children more than men, but men seem younger than women.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "74. 여자가 벌집의 말벌처럼 거의 어디에서나 냉정함을 유지할 수 있다는 것이 바로 여자가 교활하다는 증거이다.",
+        "english": "The fact that a woman can keep her cool almost anywhere like a wasp in a hive is evidence of cunning.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "75. 여자는 깊이 있는 척하는 껍데기이다.",
+        "english": "A woman is a pretentious shell.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "76. 여자는 사랑 때문에 자기를 사랑하는 남자가 그렇다고 여기는 대로 되어 간다.",
+        "english": "A woman's love makes her what the man who loves her thinks.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "77. 여자는 앙심을 품고 잊지 않는다. 이런 속성은 타인의 불행에 동정심을 보이는 것과 마찬가지로, 여자의 나약함에서 오는 것이다.",
+        "english": "A woman is vindictive and doesn't forget. This attribute comes from a woman's weakness, just as she shows sympathy for others' misfortunes.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "78. 여자들이 남자와 동등한 권리를 쟁취하기 위해 투쟁할 때, 그것도 질병의 징후이다. 그것을 모르는 의사는 아무도 없다. 오히려, 진정 여자다운 여자는 손과 발을 동원하며 그런 온갖 '권리들'을 거부한다. 자연의 법칙, 그리고 끝없는 성(性)의 전쟁은 진정 여자다운 여자에게 최고의 승리를 안겨다 줄 것이다.",
+        "english": "When women struggle to win equal rights for men, that's also a sign of disease. There is no doctor who doesn't know it. Rather, a truly feminine woman rejects all those \"rights\" by mobilizing her hands and feet. The laws of nature, and the endless war of sex, will give a truly feminine woman the ultimate victory.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "니체의 명언 모음",
+        "english": "79. 여자를 만든 것이 신의 두 번째 실수였다.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "It was God's second mistake to make a woman.",
+        "english": "80. 여자의 처음이자 마지막 사명은 자식을 세상에 낳는 것이다.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "A woman's first and last mission is to have a child in the world.",
+        "english": "81. 연애에서 맺어지는 소위 연애 결혼은 오류를 그 아버지로 하고 욕망을 그 어머니로 한다.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "The so-called love marriage that comes from a love affair makes errors father and desires mother.",
+        "english": "82. 오늘 가장 좋게 웃는 자는 역시 최후에도 웃을 것이다.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "Whoever laughs best today will laugh in the end, too.",
+        "english": "83. 오직 창조한 사람들만이 사라지게 할 수 있다.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "Only the creators can make them disappear.",
+        "english": "84. 온건파(穩健派, 온당하고 건전함)로 치닫지 않는 생각이 세상을 주도한다.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "Thinking that does not lead to moderates ((, moderate and sound) leads the world.",
+        "english": "85. 용기는 사람을 죽이지 않고, 더욱 강하게 만든다.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "Courage does not kill people, it makes them stronger.",
+        "english": "86. 우리는 소에게서 배워야 할 일이 한 가지 있다. 즉 그것은 반추(反芻, 되새김)하는 것이다.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "We have one thing to learn from cows. In other words, it is a counter-reference.",
+        "english": "87. 우리의 운명은 우리가 아직 그것의 본성을 배우기 전부터도 우리에게 영향력을 구사한다. 우리의 오늘의 규칙을 폐기하는 것은 우리의 미래이다.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "Our fate still wields influence on us even before we learn its nature. It is our future to scrap our rules today.",
+        "english": "88. 우리의 육체에서 가장 천한 부분은 성기이다. 또한 인간이 스스로를 신이라 생각하는 데 가장 장애가 되는 것도 바로 이 성기이다.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "The skinniest part of our bodies is the penis. It is also this genitals that are the most impediment to human beings thinking of themselves as gods.",
+        "english": "89. 우리 중 가장 용기 있는 사람마저도 자신이 아는 것을 행동에 옮기는 용기는 거의 가지고 있지 못하다.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "Even the most courageous of us have little courage to do what we know.",
+        "english": "니체의 명언 모음",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "90. 운명아! 비켜라. 용기있게 내가 간다.",
+        "english": "Destiny! Get out of the way. Courageously, I'm coming.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "91. 웃음이 없는 진리는 진리가 아니다.",
+        "english": "Truth without laughter is not truth.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "92. 위대한 것은 방향을 결정하는 것이다.",
+        "english": "The great thing is to determine the direction.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "93. 위대한 인간이란 역경을 극복할 줄 아는 동시에 그 역경을 사랑할 줄 아는 사람이다.",
+        "english": "A great man is a man who knows how to overcome adversity and loves it.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "94. 위대함은 과연 어디서 오는가. 어떤 사람이 위대한가. 사람들이 어째서 그를 위대하다고 하는가. 무엇이 그를 위대하게 보이게 하는가. 그것은 자기 자신에 대한 성실함을 그가 일생동안 변함없이 보여주었기 때문이다. 그것이 그를 위대하게 만들었으며, 위대하게 보이게 하는 것이다.",
+        "english": "Where does greatness come from? Who is great? Why do people call him great? What makes him look great. That's because he's always shown his integrity to himself. It made him great, and it made him look great.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "95. 육체적 욕망은 사랑보다 더 빨리 커지는 것이다.",
+        "english": "Physical desire is to grow faster than love.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "96. 이 세상에서 가장 손상받기 쉬운 반면 정복되기 어려운 것은 인간의 허영심이다. 아니, 인간의 허영심은 손상 받았을 때 오히려 힘이 커져서 어이없을 정도로 크게 부푸는 것이다.",
+        "english": "The most vulnerable thing in the world, while the hardest thing to conquer, is human vanity. No, man's vanity is that when he is damaged, he gets stronger and swells up in a ridiculously.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "97. 인간만이 이 세상에서 깊이 괴로워한다. 그러므로 인간은 웃음을 발명하지 않을 수 없었다. 가장 불행하고 가장 우울한 동물이 당연히 가장 쾌활한 동물인 것이다.",
+        "english": "Only humans suffer deeply in this world. Therefore, humans were forced to invent laughter. The unhappiest and most depressing animal is, of course, the most cheerful animal.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "98. 인간은 똑바로 판자를 만들 수 없을 만큼 옹이가 많은 나무로 만들어졌다.",
+        "english": "Humans are made of wood so many oaks that they cannot make boards straight.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "99. 인간은 수목과도 같다. 나무는 높게 밝은 곳으로 올라가면 올라갈수록 그 뿌리는 점점 강하게 땅속 아래로, 어두운 쪽으로, 나쁜 쪽으로 향한다.",
+        "english": "Humans are like trees. The higher the tree goes up to the brighter, the stronger its roots go down the ground, towards the darker, and toward the bad.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "니체의 명언 모음",
+        "english": "100. 인간은 오직 사랑 속에서만, 사랑의 환상의 그늘에 숨어서만 창조된다.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "A hundred. Man is created only in love, hiding in the shadow of the illusion of love.",
+        "english": "101. 인간이 신의 실패작에 불과하냐, 아니면 신이 인간의 실패작에 불과하냐.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "Is man nothing but a failure of God or a failure of God?",
+        "english": "102. 인생에 있어서 모든 고난이 자취를 감추었던 때를 상상해 보라. 참으로 을씨년스럽기 짝이 없지 않은가?",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "Imagine a time when all the hardships in life disappeared. What a sissy thing to be, isn't it?",
+        "english": "103. 인생의 군인 학교에서 나를 죽이지 않을 정도의 것이라면 나를 한층 강하게 한다.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "If it's something that doesn't kill me in a military school of life, it makes me stronger.",
+        "english": "104. 인생의 목적은 끊임없는 전진이다. 밑에는 언덕이 있고 냇물도 있고 진흙도 있다. 걷기 평탄한 길만 있는 게 아니다. 먼 곳을 항해하는 배가 풍파를 만나지 않고 조용히만 갈 수는 없다. 풍파는 언제나 전진하는 자의 벗이다. 차라리 고난 속에 인생의 기쁨이 있다. 풍파없는 항해, 얼마나 단조로운가! 고난이 심할수록 내 가슴은 뛴다.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "The purpose of life is constant progress. Down below there are hills, streams, and mud. There are not only smooth paths to walk. A ship sailing far away cannot go quietly without encountering wind waves. Wind waves are always the friends of the advancing ones. There is rather life's joy in hardship. What a monotonous voyage without a wind wave! The more hardships I suffer, the more my heart beats.",
+        "english": "105. 자기 책임을 방기하려 하지 않으며, 또한 그것을 타인에게 전가시키려 하지도 않는 것은 고귀한 일이다.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "It is noble of you not to waive your responsibility, nor to try to pass it on to others.",
+        "english": "106. 자랑스럽게 사는 것이 그 이상 가능하지 않을 때, 사람은 자랑스럽게 죽어야 한다.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "When it is no longer possible to live proudly, one should die proudly.",
+        "english": "107. 자유란 자기 책임에 대한 의지를 갖는 것이다.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "Freedom is about having a commitment to self-responsibility.",
+        "english": "108. 재능이 한가지 많은 것이 재능이 한가지 적은 것보다 오히려 더 위험하다.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "A lot of talent is more dangerous than one less talent.",
+        "english": "109. 절망에 빠져 있는 사람을 보게 되면 어느 누구라도 용기가 치솟게 된다.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
+        "korean": "When you see a person in despair, courage rises for anyone.",
+        "english": "110. 지배하고 억압하며 성질도 고약하다는 점에서 여자와 병 만한 것도 없다.",
+        "author": "니체"
     },
     {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "There is nothing like a woman's illness in that she controls, oppresses, and has a nasty temper.",
+        "english": "111. 지상에서 원한에 사무친 열정보다 사람을 더 빨리 소모시키는 것은 없다.",
+        "author": "니체"
     },
     {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
+        "korean": "There is nothing on earth that consumes a person more quickly than a rancorous passion.",
+        "english": "112. 진리는 추악하다. 진리에 의해서 멸하지 않기 위해 우리는 예술을 가지는 것이다.",
+        "author": "니체"
     },
     {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
+        "korean": "Truth is hideous. We have art so as not to be destroyed by truth.",
+        "english": "113. 진보의 크기는 그것이 요구하는 희생의 크기에 의하여 평가되는 것이다.",
+        "author": "니체"
     },
     {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
+        "korean": "The magnitude of progress is assessed by the magnitude of the sacrifice it requires.",
+        "english": "114. 진실을 사랑하게 되면 천국에서는 물론이고 이 땅에서도 보답을 받게 된다.",
+        "author": "니체"
     },
     {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
-    },
-    {
-        "korean": "삶이 있는 한 희망은 있다.",
-        "english": "While there is life, there is hope.",
-        "author": "키케로"
-    },
-    {
-        "korean": "산다는 것은 끊임없이 배우는 것이다.",
-        "english": "To live is to learn constantly.",
-        "author": "세네카"
-    },
-    {
-        "korean": "어려움은 사람을 강하게 만든다.",
-        "english": "Difficulties make people stronger.",
-        "author": "빅토르 위고"
-    },
-    {
-        "korean": "시간은 누구에게도 기다려 주지 않는다.",
-        "english": "Time waits for no one.",
-        "author": "제프리 초서"
-    },
-    {
-        "korean": "모든 위대한 성과는 인내의 결과다.",
-        "english": "All great achievements are the result of patience.",
-        "author": "헨리 데이비드 소로"
+        "korean": "If you love the truth, you will be rewarded not only in heaven but also in this land.",
+        "english": "115. 한낮 빛이 어둠의 깊이를 어찌 알랴",
+        "author": "니체"
     }
 ]
