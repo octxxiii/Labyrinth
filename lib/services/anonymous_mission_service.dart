@@ -33,7 +33,7 @@ class AnonymousMissionService {
           description:
               _missionTemplates[random.nextInt(_missionTemplates.length)],
           points: 100 + (i * 50),
-          timeLimit: Duration(hours: 24),
+          timeLimit: const Duration(hours: 24),
           createdAt: now,
         ),
       );
@@ -41,7 +41,9 @@ class AnonymousMissionService {
   }
 
   bool completeMission(String missionId) {
-    return _missions.removeWhere((mission) => mission.id == missionId) > 0;
+    final initialLength = _missions.length;
+    _missions.removeWhere((mission) => mission.id == missionId);
+    return _missions.length < initialLength;
   }
 
   AnonymousMission? getMissionById(String missionId) {

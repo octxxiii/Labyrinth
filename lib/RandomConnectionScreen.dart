@@ -10,13 +10,15 @@ class RandomConnectionScreen extends StatelessWidget {
     '사용자 E',
   ];
 
+  const RandomConnectionScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
     final randomUser = (users..shuffle()).first;
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('순간 연결'),
+        title: const Text('순간 연결'),
         centerTitle: true,
       ),
       body: Center(
@@ -25,9 +27,9 @@ class RandomConnectionScreen extends StatelessWidget {
           children: [
             Text(
               '랜덤으로 연결된 사용자: $randomUser',
-              style: TextStyle(color: Colors.greenAccent, fontSize: 24),
+              style: const TextStyle(color: Colors.greenAccent, fontSize: 24),
             ),
-            SizedBox(height: 20),
+            const SizedBox(height: 20),
             ElevatedButton(
               onPressed: () {
                 ScaffoldMessenger.of(context).showSnackBar(SnackBar(
@@ -35,8 +37,9 @@ class RandomConnectionScreen extends StatelessWidget {
                 ));
                 Navigator.pop(context);
               },
+              style:
+                  ElevatedButton.styleFrom(backgroundColor: Colors.greenAccent),
               child: Text('연결 종료'),
-              style: ElevatedButton.styleFrom(backgroundColor: Colors.greenAccent),
             ),
           ],
         ),

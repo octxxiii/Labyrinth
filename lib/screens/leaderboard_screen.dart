@@ -3,6 +3,8 @@ import '../models/user.dart';
 import '../services/leaderboard_service.dart';
 
 class LeaderboardScreen extends StatefulWidget {
+  const LeaderboardScreen({super.key});
+
   @override
   _LeaderboardScreenState createState() => _LeaderboardScreenState();
 }
@@ -34,7 +36,7 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
     });
 
     // 실제로는 서버에서 데이터를 가져오는 로직이 들어갈 자리
-    Future.delayed(Duration(seconds: 1), () {
+    Future.delayed(const Duration(seconds: 1), () {
       _service.generateDummyData(); // 테스트용 더미 데이터 생성
       setState(() {
         _users = _service.getLeaderboard(category: _selectedCategory);
@@ -47,11 +49,11 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('리더보드'),
+        title: const Text('리더보드'),
         centerTitle: true,
         bottom: TabBar(
           controller: _tabController,
-          tabs: [
+          tabs: const [
             Tab(text: '주간'),
             Tab(text: '월간'),
             Tab(text: '카테고리별'),
@@ -59,7 +61,7 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
         ),
         actions: [
           IconButton(
-            icon: Icon(Icons.refresh),
+            icon: const Icon(Icons.refresh),
             onPressed: _loadLeaderboard,
           ),
         ],
@@ -86,7 +88,7 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
   Widget _buildCategoryLeaderboard() {
     return Column(
       children: [
-        Container(
+        SizedBox(
           height: 50,
           child: ListView.builder(
             scrollDirection: Axis.horizontal,
@@ -121,7 +123,7 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
 
   Widget _buildLeaderboardList(List<User> users) {
     if (_isLoading) {
-      return Center(child: CircularProgressIndicator());
+      return const Center(child: CircularProgressIndicator());
     }
 
     return ListView.builder(
@@ -129,7 +131,7 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
       itemBuilder: (context, index) {
         final user = users[index];
         return Card(
-          margin: EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+          margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
           child: ListTile(
             leading: CircleAvatar(
               child: Text(user.name[0]),
@@ -139,11 +141,11 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
             trailing: Row(
               mainAxisSize: MainAxisSize.min,
               children: [
-                Icon(Icons.star, color: Colors.amber),
-                SizedBox(width: 4),
+                const Icon(Icons.star, color: Colors.amber),
+                const SizedBox(width: 4),
                 Text(
                   '${user.points}',
-                  style: TextStyle(
+                  style: const TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 16,
                   ),

@@ -4,6 +4,8 @@ import '../models/user.dart';
 import '../services/random_connection_service.dart';
 
 class RandomConnectionScreen extends StatefulWidget {
+  const RandomConnectionScreen({super.key});
+
   @override
   _RandomConnectionScreenState createState() => _RandomConnectionScreenState();
 }
@@ -39,7 +41,7 @@ class _RandomConnectionScreenState extends State<RandomConnectionScreen> {
       _isLoading = true;
     });
 
-    Future.delayed(Duration(seconds: 2), () {
+    Future.delayed(const Duration(seconds: 2), () {
       final match = _service.findMatch(_currentUser!);
       setState(() {
         _matchedUser = match;
@@ -54,7 +56,7 @@ class _RandomConnectionScreenState extends State<RandomConnectionScreen> {
       context: context,
       barrierDismissible: false,
       builder: (context) => AlertDialog(
-        title: Text('매칭 성공!'),
+        title: const Text('매칭 성공!'),
         content: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
@@ -62,18 +64,18 @@ class _RandomConnectionScreenState extends State<RandomConnectionScreen> {
               radius: 40,
               child: Text(_matchedUser!.name[0]),
             ),
-            SizedBox(height: 16),
+            const SizedBox(height: 16),
             Text(
               _matchedUser!.name,
               style: Theme.of(context).textTheme.titleLarge,
             ),
-            SizedBox(height: 8),
+            const SizedBox(height: 8),
             Text(
               _matchedUser!.bio ?? '',
               style: Theme.of(context).textTheme.bodyMedium,
               textAlign: TextAlign.center,
             ),
-            SizedBox(height: 16),
+            const SizedBox(height: 16),
             Wrap(
               spacing: 8,
               runSpacing: 8,
@@ -82,7 +84,7 @@ class _RandomConnectionScreenState extends State<RandomConnectionScreen> {
                 return Chip(
                   label: Text(interest),
                   backgroundColor: AppTheme.primaryColor.withOpacity(0.1),
-                  labelStyle: TextStyle(color: AppTheme.primaryColor),
+                  labelStyle: const TextStyle(color: AppTheme.primaryColor),
                 );
               }).toList(),
             ),
@@ -94,7 +96,7 @@ class _RandomConnectionScreenState extends State<RandomConnectionScreen> {
               Navigator.pop(context);
               _blockUser(_matchedUser!.id);
             },
-            child: Text(
+            child: const Text(
               '차단하기',
               style: TextStyle(color: AppTheme.errorColor),
             ),
@@ -104,7 +106,7 @@ class _RandomConnectionScreenState extends State<RandomConnectionScreen> {
               Navigator.pop(context);
               _startChat();
             },
-            child: Text('대화 시작하기'),
+            child: const Text('대화 시작하기'),
           ),
         ],
       ),
@@ -120,7 +122,7 @@ class _RandomConnectionScreenState extends State<RandomConnectionScreen> {
   void _blockUser(String userId) {
     _service.blockUser(_currentUser!.id, userId);
     ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(
+      const SnackBar(
         content: Text('사용자를 차단했습니다.'),
         backgroundColor: AppTheme.errorColor,
       ),
@@ -138,11 +140,11 @@ class _RandomConnectionScreenState extends State<RandomConnectionScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('순간 연결'),
+        title: const Text('순간 연결'),
         actions: [
           if (_isConnected)
             IconButton(
-              icon: Icon(Icons.close),
+              icon: const Icon(Icons.close),
               onPressed: _endChat,
             ),
         ],
@@ -152,8 +154,8 @@ class _RandomConnectionScreenState extends State<RandomConnectionScreen> {
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  CircularProgressIndicator(),
-                  SizedBox(height: 16),
+                  const CircularProgressIndicator(),
+                  const SizedBox(height: 16),
                   Text(
                     '매칭 중...',
                     style: Theme.of(context).textTheme.titleMedium,
@@ -170,17 +172,17 @@ class _RandomConnectionScreenState extends State<RandomConnectionScreen> {
                         radius: 60,
                         child: Text(_matchedUser!.name[0]),
                       ),
-                      SizedBox(height: 24),
+                      const SizedBox(height: 24),
                       Text(
                         _matchedUser!.name,
                         style: Theme.of(context).textTheme.headlineMedium,
                       ),
-                      SizedBox(height: 8),
+                      const SizedBox(height: 8),
                       Text(
                         _matchedUser!.bio ?? '',
                         style: Theme.of(context).textTheme.bodyLarge,
                       ),
-                      SizedBox(height: 24),
+                      const SizedBox(height: 24),
                       Wrap(
                         spacing: 8,
                         runSpacing: 8,
@@ -190,17 +192,18 @@ class _RandomConnectionScreenState extends State<RandomConnectionScreen> {
                             label: Text(interest),
                             backgroundColor:
                                 AppTheme.primaryColor.withOpacity(0.1),
-                            labelStyle: TextStyle(color: AppTheme.primaryColor),
+                            labelStyle:
+                                const TextStyle(color: AppTheme.primaryColor),
                           );
                         }).toList(),
                       ),
-                      SizedBox(height: 32),
+                      const SizedBox(height: 32),
                       ElevatedButton(
                         onPressed: _endChat,
                         style: ElevatedButton.styleFrom(
                           backgroundColor: AppTheme.errorColor,
                         ),
-                        child: Text('대화 종료'),
+                        child: const Text('대화 종료'),
                       ),
                     ],
                   ),
@@ -209,25 +212,25 @@ class _RandomConnectionScreenState extends State<RandomConnectionScreen> {
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      Icon(
+                      const Icon(
                         Icons.people,
                         size: 64,
                         color: AppTheme.primaryColor,
                       ),
-                      SizedBox(height: 24),
+                      const SizedBox(height: 24),
                       Text(
                         '새로운 대화를 시작하세요',
                         style: Theme.of(context).textTheme.headlineMedium,
                       ),
-                      SizedBox(height: 8),
+                      const SizedBox(height: 8),
                       Text(
                         '관심사가 비슷한 사람들과 대화를 나누세요',
                         style: Theme.of(context).textTheme.bodyLarge,
                       ),
-                      SizedBox(height: 32),
+                      const SizedBox(height: 32),
                       ElevatedButton(
                         onPressed: _findMatch,
-                        child: Text('매칭 시작'),
+                        child: const Text('매칭 시작'),
                       ),
                     ],
                   ),

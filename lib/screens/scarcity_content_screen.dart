@@ -5,6 +5,8 @@ import '../models/scarcity_content.dart';
 import '../services/scarcity_content_service.dart';
 
 class ScarcityContentScreen extends StatefulWidget {
+  const ScarcityContentScreen({super.key});
+
   @override
   _ScarcityContentScreenState createState() => _ScarcityContentScreenState();
 }
@@ -30,7 +32,7 @@ class _ScarcityContentScreenState extends State<ScarcityContentScreen> {
   }
 
   void _startRefreshTimer() {
-    _refreshTimer = Timer.periodic(Duration(seconds: 30), (timer) {
+    _refreshTimer = Timer.periodic(const Duration(seconds: 30), (timer) {
       _loadContents();
     });
   }
@@ -40,7 +42,7 @@ class _ScarcityContentScreenState extends State<ScarcityContentScreen> {
       _isLoading = true;
     });
 
-    Future.delayed(Duration(seconds: 1), () {
+    Future.delayed(const Duration(seconds: 1), () {
       _service.generateDummyData();
       setState(() {
         _contents = _selectedCategory == '전체'
@@ -67,21 +69,21 @@ class _ScarcityContentScreenState extends State<ScarcityContentScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('희귀 콘텐츠'),
+        title: const Text('희귀 콘텐츠'),
         actions: [
           IconButton(
-            icon: Icon(Icons.refresh),
+            icon: const Icon(Icons.refresh),
             onPressed: _loadContents,
           ),
         ],
       ),
       body: Column(
         children: [
-          Container(
+          SizedBox(
             height: 50,
             child: ListView.builder(
               scrollDirection: Axis.horizontal,
-              padding: EdgeInsets.symmetric(horizontal: 16),
+              padding: const EdgeInsets.symmetric(horizontal: 16),
               itemCount: _service.getCategories().length + 1,
               itemBuilder: (context, index) {
                 final category =
@@ -105,23 +107,23 @@ class _ScarcityContentScreenState extends State<ScarcityContentScreen> {
           ),
           Expanded(
             child: _isLoading
-                ? Center(child: CircularProgressIndicator())
+                ? const Center(child: CircularProgressIndicator())
                 : _contents.isEmpty
                     ? Center(
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
-                            Icon(
+                            const Icon(
                               Icons.hourglass_empty,
                               size: 64,
                               color: AppTheme.textSecondaryColor,
                             ),
-                            SizedBox(height: 16),
+                            const SizedBox(height: 16),
                             Text(
                               '현재 이용 가능한 콘텐츠가 없습니다.',
                               style: Theme.of(context).textTheme.titleLarge,
                             ),
-                            SizedBox(height: 8),
+                            const SizedBox(height: 8),
                             Text(
                               '잠시 후 다시 확인해주세요.',
                               style: Theme.of(context).textTheme.bodyMedium,
@@ -130,16 +132,16 @@ class _ScarcityContentScreenState extends State<ScarcityContentScreen> {
                         ),
                       )
                     : ListView.builder(
-                        padding: EdgeInsets.all(16),
+                        padding: const EdgeInsets.all(16),
                         itemCount: _contents.length,
                         itemBuilder: (context, index) {
                           final content = _contents[index];
                           return Card(
-                            margin: EdgeInsets.only(bottom: 16),
+                            margin: const EdgeInsets.only(bottom: 16),
                             child: InkWell(
                               onTap: () => _viewContent(content),
                               child: Padding(
-                                padding: EdgeInsets.all(16),
+                                padding: const EdgeInsets.all(16),
                                 child: Column(
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: [
@@ -149,13 +151,13 @@ class _ScarcityContentScreenState extends State<ScarcityContentScreen> {
                                       children: [
                                         Text(
                                           content.category,
-                                          style: TextStyle(
+                                          style: const TextStyle(
                                             color: AppTheme.primaryColor,
                                             fontWeight: FontWeight.bold,
                                           ),
                                         ),
                                         Container(
-                                          padding: EdgeInsets.symmetric(
+                                          padding: const EdgeInsets.symmetric(
                                             horizontal: 8,
                                             vertical: 4,
                                           ),
@@ -167,7 +169,7 @@ class _ScarcityContentScreenState extends State<ScarcityContentScreen> {
                                           ),
                                           child: Text(
                                             '${content.currentViews}/${content.maxViews}',
-                                            style: TextStyle(
+                                            style: const TextStyle(
                                               color: AppTheme.primaryColor,
                                               fontWeight: FontWeight.bold,
                                             ),
@@ -175,30 +177,31 @@ class _ScarcityContentScreenState extends State<ScarcityContentScreen> {
                                         ),
                                       ],
                                     ),
-                                    SizedBox(height: 8),
+                                    const SizedBox(height: 8),
                                     Text(
                                       content.title,
                                       style: Theme.of(context)
                                           .textTheme
                                           .titleLarge,
                                     ),
-                                    SizedBox(height: 4),
+                                    const SizedBox(height: 4),
                                     Text(
                                       content.description,
                                       style: Theme.of(context)
                                           .textTheme
                                           .bodyMedium,
                                     ),
-                                    SizedBox(height: 16),
+                                    const SizedBox(height: 16),
                                     LinearProgressIndicator(
                                       value: content.viewProgress,
                                       backgroundColor: AppTheme.primaryColor
                                           .withOpacity(0.1),
-                                      valueColor: AlwaysStoppedAnimation<Color>(
+                                      valueColor:
+                                          const AlwaysStoppedAnimation<Color>(
                                         AppTheme.primaryColor,
                                       ),
                                     ),
-                                    SizedBox(height: 8),
+                                    const SizedBox(height: 8),
                                     Row(
                                       mainAxisAlignment:
                                           MainAxisAlignment.spaceBetween,

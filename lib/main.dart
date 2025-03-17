@@ -107,7 +107,7 @@ class FeatureCard extends StatelessWidget {
           );
         },
         child: Padding(
-          padding: EdgeInsets.all(16),
+          padding: const EdgeInsets.all(16),
           child: Row(
             children: [
               Container(
@@ -119,7 +119,7 @@ class FeatureCard extends StatelessWidget {
                 ),
                 child: Icon(icon, color: AppTheme.primaryColor),
               ),
-              SizedBox(width: 16),
+              const SizedBox(width: 16),
               Expanded(
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
@@ -128,7 +128,7 @@ class FeatureCard extends StatelessWidget {
                       title,
                       style: Theme.of(context).textTheme.titleLarge,
                     ),
-                    SizedBox(height: 4),
+                    const SizedBox(height: 4),
                     Text(
                       description,
                       style: Theme.of(context).textTheme.bodyMedium,
@@ -136,7 +136,7 @@ class FeatureCard extends StatelessWidget {
                   ],
                 ),
               ),
-              Icon(
+              const Icon(
                 Icons.chevron_right,
                 color: AppTheme.textSecondaryColor,
               ),
@@ -150,14 +150,16 @@ class FeatureCard extends StatelessWidget {
 
 // SettingsScreen 추가
 class SettingsScreen extends StatelessWidget {
+  const SettingsScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('설정'),
+        title: const Text('설정'),
         centerTitle: true,
       ),
-      body: Center(
+      body: const Center(
         child: Text(
           '설정 화면',
           style: TextStyle(color: Colors.white, fontSize: 24),
@@ -169,6 +171,8 @@ class SettingsScreen extends StatelessWidget {
 
 // 익명 미션 화면
 class AnonymousMissionScreen extends StatefulWidget {
+  const AnonymousMissionScreen({super.key});
+
   @override
   _AnonymousMissionScreenState createState() => _AnonymousMissionScreenState();
 }
@@ -187,7 +191,7 @@ class _AnonymousMissionScreenState extends State<AnonymousMissionScreen> {
       completedMissions.add(mission);
       selectedMission = null;
     });
-    ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+    ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
       content: Text('미션 완료! 트로피를 획득했습니다.'),
     ));
   }
@@ -196,7 +200,7 @@ class _AnonymousMissionScreenState extends State<AnonymousMissionScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('익명 미션 수행'),
+        title: const Text('익명 미션 수행'),
         centerTitle: true,
       ),
       body: Column(
@@ -208,9 +212,9 @@ class _AnonymousMissionScreenState extends State<AnonymousMissionScreen> {
                   selectedMission = (missions..shuffle()).first;
                 });
               },
-              child: Text('미션 시작'),
               style:
                   ElevatedButton.styleFrom(backgroundColor: Colors.blueAccent),
+              child: Text('미션 시작'),
             ),
           if (selectedMission != null)
             Padding(
@@ -218,13 +222,14 @@ class _AnonymousMissionScreenState extends State<AnonymousMissionScreen> {
               child: Column(
                 children: [
                   Text('미션: $selectedMission',
-                      style: TextStyle(color: Colors.white, fontSize: 18)),
-                  SizedBox(height: 20),
+                      style:
+                          const TextStyle(color: Colors.white, fontSize: 18)),
+                  const SizedBox(height: 20),
                   ElevatedButton(
                     onPressed: () => _completeMission(selectedMission!),
-                    child: Text('미션 완료'),
                     style: ElevatedButton.styleFrom(
                         backgroundColor: Colors.blueAccent),
+                    child: Text('미션 완료'),
                   ),
                 ],
               ),
@@ -235,7 +240,7 @@ class _AnonymousMissionScreenState extends State<AnonymousMissionScreen> {
               itemBuilder: (context, index) {
                 return ListTile(
                   title: Text('완료된 미션: ${completedMissions[index]}',
-                      style: TextStyle(color: Colors.white)),
+                      style: const TextStyle(color: Colors.white)),
                 );
               },
             ),
@@ -248,7 +253,7 @@ class _AnonymousMissionScreenState extends State<AnonymousMissionScreen> {
 
 // 리더보드 화면
 class LeaderboardScreen extends StatelessWidget {
-  final List<Map<String, dynamic>> leaderboard = [
+  final List<Map<String, dynamic>> leaderboard = const [
     {'name': '사용자 A', 'points': 1000},
     {'name': '사용자 B', 'points': 800},
     {'name': '사용자 C', 'points': 600},
@@ -256,11 +261,13 @@ class LeaderboardScreen extends StatelessWidget {
     {'name': '사용자 E', 'points': 300},
   ];
 
+  const LeaderboardScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('리더보드'),
+        title: const Text('리더보드'),
         centerTitle: true,
       ),
       body: ListView.builder(
@@ -268,9 +275,9 @@ class LeaderboardScreen extends StatelessWidget {
         itemBuilder: (context, index) {
           return ListTile(
             title: Text('${leaderboard[index]['name']}',
-                style: TextStyle(color: Colors.white)),
+                style: const TextStyle(color: Colors.white)),
             trailing: Text('${leaderboard[index]['points']} 포인트',
-                style: TextStyle(color: Colors.white)),
+                style: const TextStyle(color: Colors.white)),
           );
         },
       ),
@@ -280,7 +287,7 @@ class LeaderboardScreen extends StatelessWidget {
 
 // 랜덤 연결 화면
 class RandomConnectionScreen extends StatelessWidget {
-  final List<String> users = [
+  final List<String> users = const [
     '사용자 A',
     '사용자 B',
     '사용자 C',
@@ -288,13 +295,15 @@ class RandomConnectionScreen extends StatelessWidget {
     '사용자 E',
   ];
 
+  const RandomConnectionScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
     final randomUser = (users..shuffle()).first;
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('순간 연결'),
+        title: const Text('순간 연결'),
         centerTitle: true,
       ),
       body: Center(
@@ -303,9 +312,9 @@ class RandomConnectionScreen extends StatelessWidget {
           children: [
             Text(
               '랜덤으로 연결된 사용자: $randomUser',
-              style: TextStyle(color: Colors.blueAccent, fontSize: 24),
+              style: const TextStyle(color: Colors.blueAccent, fontSize: 24),
             ),
-            SizedBox(height: 20),
+            const SizedBox(height: 20),
             ElevatedButton(
               onPressed: () {
                 ScaffoldMessenger.of(context).showSnackBar(SnackBar(
@@ -313,9 +322,9 @@ class RandomConnectionScreen extends StatelessWidget {
                 ));
                 Navigator.pop(context);
               },
-              child: Text('연결 종료'),
               style:
                   ElevatedButton.styleFrom(backgroundColor: Colors.blueAccent),
+              child: Text('연결 종료'),
             ),
           ],
         ),
@@ -326,6 +335,8 @@ class RandomConnectionScreen extends StatelessWidget {
 
 // 희소성 콘텐츠 화면
 class ScarcityContentScreen extends StatefulWidget {
+  const ScarcityContentScreen({super.key});
+
   @override
   _ScarcityContentScreenState createState() => _ScarcityContentScreenState();
 }
@@ -341,7 +352,7 @@ class _ScarcityContentScreenState extends State<ScarcityContentScreen> {
   }
 
   void _startTimer() {
-    _timer = Timer(Duration(seconds: 30), () {
+    _timer = Timer(const Duration(seconds: 30), () {
       setState(() {
         isContentAvailable = true;
       });
@@ -358,16 +369,16 @@ class _ScarcityContentScreenState extends State<ScarcityContentScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('희소성 콘텐츠'),
+        title: const Text('희소성 콘텐츠'),
         centerTitle: true,
       ),
       body: Center(
         child: isContentAvailable
-            ? Text(
+            ? const Text(
                 '독점 콘텐츠 공개!',
                 style: TextStyle(color: Colors.blueAccent, fontSize: 24),
               )
-            : Text(
+            : const Text(
                 '콘텐츠가 준비되지 않았습니다. 잠시만 기다려 주세요.',
                 style: TextStyle(color: Colors.white, fontSize: 18),
               ),
@@ -378,6 +389,8 @@ class _ScarcityContentScreenState extends State<ScarcityContentScreen> {
 
 // 비밀의 방 화면
 class SecretRoomScreen extends StatefulWidget {
+  const SecretRoomScreen({super.key});
+
   @override
   _SecretRoomScreenState createState() => _SecretRoomScreenState();
 }
@@ -392,7 +405,7 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
         secrets.add(secret);
       });
       _controller.clear();
-      ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+      ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
         content: Text('비밀이 공유되었습니다!'),
       ));
     }
@@ -402,7 +415,7 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('비밀의 방'),
+        title: const Text('비밀의 방'),
         centerTitle: true,
       ),
       body: Column(
@@ -411,7 +424,7 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
             padding: const EdgeInsets.all(16.0),
             child: TextField(
               controller: _controller,
-              decoration: InputDecoration(
+              decoration: const InputDecoration(
                 labelText: '비밀을 공유하세요',
                 labelStyle: TextStyle(color: Colors.blueAccent),
                 enabledBorder: OutlineInputBorder(
@@ -422,8 +435,8 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
           ),
           ElevatedButton(
             onPressed: () => _submitSecret(_controller.text),
-            child: Text('비밀 제출'),
             style: ElevatedButton.styleFrom(backgroundColor: Colors.blueAccent),
+            child: Text('비밀 제출'),
           ),
           Expanded(
             child: ListView.builder(
@@ -431,7 +444,7 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
               itemBuilder: (context, index) {
                 return ListTile(
                   title: Text('비밀: ${secrets[index]}',
-                      style: TextStyle(color: Colors.white)),
+                      style: const TextStyle(color: Colors.white)),
                 );
               },
             ),

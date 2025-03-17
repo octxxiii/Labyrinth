@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class SecretRoomScreen extends StatefulWidget {
+  const SecretRoomScreen({super.key});
+
   @override
   _SecretRoomScreenState createState() => _SecretRoomScreenState();
 }
@@ -21,7 +23,7 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('비밀의 방'),
+        title: const Text('비밀의 방'),
         centerTitle: true,
       ),
       body: Column(
@@ -30,7 +32,7 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
             padding: const EdgeInsets.all(16.0),
             child: TextField(
               controller: _controller,
-              decoration: InputDecoration(
+              decoration: const InputDecoration(
                 labelText: '비밀을 공유하세요',
                 labelStyle: TextStyle(color: Colors.greenAccent),
                 enabledBorder: OutlineInputBorder(
@@ -41,8 +43,9 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
           ),
           ElevatedButton(
             onPressed: () => _submitSecret(_controller.text),
+            style:
+                ElevatedButton.styleFrom(backgroundColor: Colors.greenAccent),
             child: Text('비밀 제출'),
-            style: ElevatedButton.styleFrom(backgroundColor: Colors.greenAccent),
           ),
           Expanded(
             child: ListView.builder(

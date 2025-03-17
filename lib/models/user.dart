@@ -17,7 +17,7 @@ class User {
     required this.lastActive,
     required this.points,
     List<String>? blockedUsers,
-  }) : this.blockedUsers = blockedUsers ?? [];
+  }) : blockedUsers = blockedUsers ?? [];
 
   factory User.fromJson(Map<String, dynamic> json) {
     return User(

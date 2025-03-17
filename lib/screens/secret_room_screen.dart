@@ -4,6 +4,8 @@ import '../models/secret_message.dart';
 import '../services/secret_room_service.dart';
 
 class SecretRoomScreen extends StatefulWidget {
+  const SecretRoomScreen({super.key});
+
   @override
   _SecretRoomScreenState createState() => _SecretRoomScreenState();
 }
@@ -12,7 +14,7 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
   final SecretRoomService _service = SecretRoomService();
   final TextEditingController _messageController = TextEditingController();
   List<SecretMessage> _messages = [];
-  List<String> _selectedTags = [];
+  final List<String> _selectedTags = [];
   bool _isLoading = true;
 
   @override
@@ -32,7 +34,7 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
       _isLoading = true;
     });
 
-    Future.delayed(Duration(seconds: 1), () {
+    Future.delayed(const Duration(seconds: 1), () {
       _service.generateDummyData();
       setState(() {
         _messages = _service.getMessages();
@@ -60,7 +62,7 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
     _selectedTags.clear();
 
     ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(
+      const SnackBar(
         content: Text('메시지가 공유되었습니다.'),
         backgroundColor: AppTheme.primaryColor,
       ),
@@ -88,10 +90,10 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('비밀의 방'),
+        title: const Text('비밀의 방'),
         actions: [
           IconButton(
-            icon: Icon(Icons.refresh),
+            icon: const Icon(Icons.refresh),
             onPressed: _loadMessages,
           ),
         ],
@@ -99,7 +101,7 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
       body: Column(
         children: [
           Container(
-            padding: EdgeInsets.all(16),
+            padding: const EdgeInsets.all(16),
             color: AppTheme.primaryColor.withOpacity(0.1),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
@@ -108,7 +110,7 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
                   '태그 선택',
                   style: Theme.of(context).textTheme.titleMedium,
                 ),
-                SizedBox(height: 8),
+                const SizedBox(height: 8),
                 Wrap(
                   spacing: 8,
                   runSpacing: 8,
@@ -125,23 +127,23 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
             ),
           ),
           Padding(
-            padding: EdgeInsets.all(16),
+            padding: const EdgeInsets.all(16),
             child: Row(
               children: [
                 Expanded(
                   child: TextField(
                     controller: _messageController,
-                    decoration: InputDecoration(
+                    decoration: const InputDecoration(
                       hintText: '당신의 이야기를 공유하세요',
                       border: OutlineInputBorder(),
                     ),
                     maxLines: 3,
                   ),
                 ),
-                SizedBox(width: 8),
+                const SizedBox(width: 8),
                 IconButton(
                   onPressed: _submitMessage,
-                  icon: Icon(Icons.send),
+                  icon: const Icon(Icons.send),
                   color: AppTheme.primaryColor,
                 ),
               ],
@@ -149,16 +151,16 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
           ),
           Expanded(
             child: _isLoading
-                ? Center(child: CircularProgressIndicator())
+                ? const Center(child: CircularProgressIndicator())
                 : ListView.builder(
-                    padding: EdgeInsets.all(16),
+                    padding: const EdgeInsets.all(16),
                     itemCount: _messages.length,
                     itemBuilder: (context, index) {
                       final message = _messages[index];
                       return Card(
-                        margin: EdgeInsets.only(bottom: 16),
+                        margin: const EdgeInsets.only(bottom: 16),
                         child: Padding(
-                          padding: EdgeInsets.all(16),
+                          padding: const EdgeInsets.all(16),
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
@@ -166,7 +168,7 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
                                 message.content,
                                 style: Theme.of(context).textTheme.bodyLarge,
                               ),
-                              SizedBox(height: 8),
+                              const SizedBox(height: 8),
                               Wrap(
                                 spacing: 4,
                                 runSpacing: 4,
@@ -174,7 +176,7 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
                                   return Chip(
                                     label: Text(
                                       tag,
-                                      style: TextStyle(
+                                      style: const TextStyle(
                                         fontSize: 12,
                                         color: AppTheme.primaryColor,
                                       ),
@@ -184,7 +186,7 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
                                   );
                                 }).toList(),
                               ),
-                              SizedBox(height: 8),
+                              const SizedBox(height: 8),
                               Row(
                                 mainAxisAlignment:
                                     MainAxisAlignment.spaceBetween,
@@ -197,7 +199,7 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
                                   Row(
                                     children: [
                                       IconButton(
-                                        icon: Icon(
+                                        icon: const Icon(
                                           Icons.favorite_border,
                                           color: AppTheme.primaryColor,
                                         ),
@@ -206,7 +208,7 @@ class _SecretRoomScreenState extends State<SecretRoomScreen> {
                                       ),
                                       Text(
                                         '${message.likes}',
-                                        style: TextStyle(
+                                        style: const TextStyle(
                                           color: AppTheme.primaryColor,
                                           fontWeight: FontWeight.bold,
                                         ),

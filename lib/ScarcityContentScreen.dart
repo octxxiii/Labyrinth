@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 
 class ScarcityContentScreen extends StatefulWidget {
+  const ScarcityContentScreen({super.key});
+
   @override
   _ScarcityContentScreenState createState() => _ScarcityContentScreenState();
 }
@@ -17,7 +19,7 @@ class _ScarcityContentScreenState extends State<ScarcityContentScreen> {
   }
 
   void _startTimer() {
-    _timer = Timer(Duration(seconds: 30), () {
+    _timer = Timer(const Duration(seconds: 30), () {
       setState(() {
         isContentAvailable = true;
       });
@@ -34,19 +36,19 @@ class _ScarcityContentScreenState extends State<ScarcityContentScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('희소성 콘텐츠'),
+        title: const Text('희소성 콘텐츠'),
         centerTitle: true,
       ),
       body: Center(
         child: isContentAvailable
-            ? Text(
-          '독점 콘텐츠 공개!',
-          style: TextStyle(color: Colors.greenAccent, fontSize: 24),
-        )
-            : Text(
-          '콘텐츠가 준비되지 않았습니다. 잠시만 기다려 주세요.',
-          style: TextStyle(color: Colors.white, fontSize: 18),
-        ),
+            ? const Text(
+                '독점 콘텐츠 공개!',
+                style: TextStyle(color: Colors.greenAccent, fontSize: 24),
+              )
+            : const Text(
+                '콘텐츠가 준비되지 않았습니다. 잠시만 기다려 주세요.',
+                style: TextStyle(color: Colors.white, fontSize: 18),
+              ),
       ),
     );
   }

@@ -65,15 +65,15 @@ class ScarcityContentService {
       final maxViews = isExclusive ? 50 : 100;
       final currentViews = random.nextInt(maxViews);
       final startTime = now.subtract(Duration(hours: random.nextInt(24)));
-      final endTime = startTime.add(Duration(hours: 24));
+      final endTime = startTime.add(const Duration(hours: 24));
 
       _contents.add(
         ScarcityContent(
           id: 'content_$i',
-          title: '${category} 콘텐츠 ${i + 1}',
+          title: '$category 콘텐츠 ${i + 1}',
           description:
-              '이것은 ${category} 카테고리의 ${isExclusive ? '독점' : '일반'} 콘텐츠입니다.',
-          content: '이것은 테스트 콘텐츠 $i입니다. ${category} 카테고리의 콘텐츠입니다.',
+              '이것은 $category 카테고리의 ${isExclusive ? '독점' : '일반'} 콘텐츠입니다.',
+          content: '이것은 테스트 콘텐츠 $i입니다. $category 카테고리의 콘텐츠입니다.',
           startTime: startTime,
           endTime: endTime,
           maxViews: maxViews,

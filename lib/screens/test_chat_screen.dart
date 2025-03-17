@@ -65,7 +65,7 @@ class _TestChatScreenState extends State<TestChatScreen> {
       _messageController.clear();
 
       // 상대방의 응답 시뮬레이션
-      Future.delayed(Duration(seconds: 1), () {
+      Future.delayed(const Duration(seconds: 1), () {
         setState(() {
           _messages.add(ChatMessage(
             content: '테스트 응답 메시지입니다.',
@@ -84,7 +84,7 @@ class _TestChatScreenState extends State<TestChatScreen> {
         title: Text('${widget.userName}의 채팅'),
         actions: [
           IconButton(
-            icon: Icon(Icons.refresh),
+            icon: const Icon(Icons.refresh),
             onPressed: _findMatch,
           ),
         ],
@@ -93,14 +93,14 @@ class _TestChatScreenState extends State<TestChatScreen> {
         children: [
           if (_isConnected && _matchedUser != null)
             Container(
-              padding: EdgeInsets.all(16),
+              padding: const EdgeInsets.all(16),
               color: AppTheme.primaryColor.withOpacity(0.1),
               child: Row(
                 children: [
                   CircleAvatar(
                     child: Text(_matchedUser!.name[0]),
                   ),
-                  SizedBox(width: 12),
+                  const SizedBox(width: 12),
                   Expanded(
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
@@ -121,7 +121,7 @@ class _TestChatScreenState extends State<TestChatScreen> {
             ),
           Expanded(
             child: ListView.builder(
-              padding: EdgeInsets.all(16),
+              padding: const EdgeInsets.all(16),
               itemCount: _messages.length,
               itemBuilder: (context, index) {
                 final message = _messages[index];
@@ -130,8 +130,8 @@ class _TestChatScreenState extends State<TestChatScreen> {
                       ? Alignment.centerRight
                       : Alignment.centerLeft,
                   child: Container(
-                    margin: EdgeInsets.only(bottom: 8),
-                    padding: EdgeInsets.symmetric(
+                    margin: const EdgeInsets.only(bottom: 8),
+                    padding: const EdgeInsets.symmetric(
                       horizontal: 16,
                       vertical: 8,
                     ),
@@ -154,14 +154,14 @@ class _TestChatScreenState extends State<TestChatScreen> {
             ),
           ),
           Container(
-            padding: EdgeInsets.all(16),
+            padding: const EdgeInsets.all(16),
             decoration: BoxDecoration(
               color: Colors.white,
               boxShadow: [
                 BoxShadow(
                   color: Colors.black.withOpacity(0.1),
                   blurRadius: 4,
-                  offset: Offset(0, -2),
+                  offset: const Offset(0, -2),
                 ),
               ],
             ),
@@ -178,10 +178,10 @@ class _TestChatScreenState extends State<TestChatScreen> {
                     ),
                   ),
                 ),
-                SizedBox(width: 8),
+                const SizedBox(width: 8),
                 IconButton(
                   onPressed: _sendMessage,
-                  icon: Icon(Icons.send),
+                  icon: const Icon(Icons.send),
                   color: AppTheme.primaryColor,
                 ),
               ],

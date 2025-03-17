@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class AnonymousMissionScreen extends StatefulWidget {
+  const AnonymousMissionScreen({super.key});
+
   @override
   _AnonymousMissionScreenState createState() => _AnonymousMissionScreenState();
 }
@@ -19,7 +21,7 @@ class _AnonymousMissionScreenState extends State<AnonymousMissionScreen> {
       completedMissions.add(mission);
       selectedMission = null;
     });
-    ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+    ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
       content: Text('미션 완료! 트로피를 획득했습니다.'),
     ));
   }
@@ -28,7 +30,7 @@ class _AnonymousMissionScreenState extends State<AnonymousMissionScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('익명 미션 수행'),
+        title: const Text('익명 미션 수행'),
         centerTitle: true,
       ),
       body: Column(
@@ -40,8 +42,9 @@ class _AnonymousMissionScreenState extends State<AnonymousMissionScreen> {
                   selectedMission = (missions..shuffle()).first;
                 });
               },
+              style:
+                  ElevatedButton.styleFrom(backgroundColor: Colors.greenAccent),
               child: Text('미션 시작'),
-              style: ElevatedButton.styleFrom(backgroundColor: Colors.greenAccent),
             ),
           if (selectedMission != null)
             Padding(
@@ -49,11 +52,12 @@ class _AnonymousMissionScreenState extends State<AnonymousMissionScreen> {
               child: Column(
                 children: [
                   Text('미션: $selectedMission'),
-                  SizedBox(height: 20),
+                  const SizedBox(height: 20),
                   ElevatedButton(
                     onPressed: () => _completeMission(selectedMission!),
+                    style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.greenAccent),
                     child: Text('미션 완료'),
-                    style: ElevatedButton.styleFrom(backgroundColor: Colors.greenAccent),
                   ),
                 ],
               ),

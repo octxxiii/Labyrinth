@@ -9,11 +9,13 @@ class LeaderboardScreen extends StatelessWidget {
     {'name': '사용자 E', 'points': 300},
   ];
 
+  const LeaderboardScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('리더보드'),
+        title: const Text('리더보드'),
         centerTitle: true,
       ),
       body: ListView.builder(

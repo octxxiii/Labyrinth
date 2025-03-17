@@ -15,12 +15,11 @@ class AppTheme {
       colorScheme: ColorScheme.fromSwatch().copyWith(
         primary: primaryColor,
         secondary: secondaryColor,
-        background: backgroundColor,
         surface: surfaceColor,
         error: errorColor,
       ),
       scaffoldBackgroundColor: backgroundColor,
-      appBarTheme: AppBarTheme(
+      appBarTheme: const AppBarTheme(
         backgroundColor: primaryColor,
         foregroundColor: Colors.white,
         elevation: 0,
@@ -43,13 +42,13 @@ class AppTheme {
           backgroundColor: primaryColor,
           foregroundColor: Colors.white,
           elevation: 0,
-          padding: EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+          padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(8),
           ),
         ),
       ),
-      textTheme: TextTheme(
+      textTheme: const TextTheme(
         headlineMedium: TextStyle(
           color: textColor,
           fontSize: 24,
@@ -77,7 +76,7 @@ class AppTheme {
         ),
         focusedBorder: OutlineInputBorder(
           borderRadius: BorderRadius.circular(8),
-          borderSide: BorderSide(color: primaryColor),
+          borderSide: const BorderSide(color: primaryColor),
         ),
       ),
     );
@@ -99,7 +98,7 @@ class AppTheme {
         borderRadius: BorderRadius.circular(12),
       ),
     ),
-    navigationBarTheme: NavigationBarThemeData(
+    navigationBarTheme: const NavigationBarThemeData(
       labelBehavior: NavigationDestinationLabelBehavior.alwaysShow,
     ),
   );
@@ -120,7 +119,7 @@ class AppTheme {
         borderRadius: BorderRadius.circular(12),
       ),
     ),
-    navigationBarTheme: NavigationBarThemeData(
+    navigationBarTheme: const NavigationBarThemeData(
       labelBehavior: NavigationDestinationLabelBehavior.alwaysShow,
     ),
   );
