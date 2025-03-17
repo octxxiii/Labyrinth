@@ -9,99 +9,74 @@ import 'screens/leaderboard_screen.dart';
 import 'screens/test_chat_screen.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Quotes',
-      theme: AppTheme.theme,
-      home: MainScreen(),
+      title: 'Labyrinth',
+      theme: AppTheme.lightTheme,
+      darkTheme: AppTheme.darkTheme,
+      home: const MainScreen(),
     );
   }
 }
 
-class MainScreen extends StatelessWidget {
-  final List<FeatureCard> features = [
-    FeatureCard(
-      title: '익명 미션',
-      description: '매일 새로운 미션을 수행하고 포인트를 획득하세요',
-      icon: Icons.task_alt,
-      screen: AnonymousMissionScreen(),
-    ),
-    FeatureCard(
-      title: '비밀의 방',
-      description: '익명으로 당신의 이야기를 공유하세요',
-      icon: Icons.lock,
-      screen: SecretRoomScreen(),
-    ),
-    FeatureCard(
-      title: '희귀 콘텐츠',
-      description: '한정된 시간 동안만 볼 수 있는 특별한 콘텐츠',
-      icon: Icons.star,
-      screen: ScarcityContentScreen(),
-    ),
-    FeatureCard(
-      title: '순간 연결',
-      description: '관심사가 비슷한 사람들과 대화를 나누세요',
-      icon: Icons.people,
-      screen: RandomConnectionScreen(),
-    ),
-    FeatureCard(
-      title: '리더보드',
-      description: '포인트 순위를 확인하고 경쟁하세요',
-      icon: Icons.leaderboard,
-      screen: LeaderboardScreen(),
-    ),
-    FeatureCard(
-      title: '테스트 채팅 1',
-      description: '첫 번째 사용자의 채팅 화면',
-      icon: Icons.chat,
-      screen: TestChatScreen(
-        userId: 'user_1',
-        userName: '시인',
-        interests: ['시', '에세이', '철학'],
-        bio: '문학을 사랑하는 시인',
-      ),
-    ),
-    FeatureCard(
-      title: '테스트 채팅 2',
-      description: '두 번째 사용자의 채팅 화면',
-      icon: Icons.chat,
-      screen: TestChatScreen(
-        userId: 'user_2',
-        userName: '철학자',
-        interests: ['철학', '과학', '예술'],
-        bio: '진리를 추구하는 철학자',
-      ),
-    ),
+class MainScreen extends StatefulWidget {
+  const MainScreen({super.key});
+
+  @override
+  State<MainScreen> createState() => _MainScreenState();
+}
+
+class _MainScreenState extends State<MainScreen> {
+  int _selectedIndex = 0;
+
+  final List<Widget> _screens = [
+    AnonymousMissionScreen(),
+    SecretRoomScreen(),
+    RandomConnectionScreen(),
+    ScarcityContentScreen(),
+    LeaderboardScreen(),
   ];
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text('Quotes'),
-        actions: [
-          IconButton(
-            icon: Icon(Icons.settings),
-            onPressed: () {
-              // 설정 화면으로 이동
-            },
+      body: _screens[_selectedIndex],
+      bottomNavigationBar: NavigationBar(
+        selectedIndex: _selectedIndex,
+        onDestinationSelected: (index) {
+          setState(() {
+            _selectedIndex = index;
+          });
+        },
+        destinations: const [
+          NavigationDestination(
+            icon: Icon(Icons.assignment),
+            label: '익명 미션',
+          ),
+          NavigationDestination(
+            icon: Icon(Icons.lock),
+            label: '비밀의 방',
+          ),
+          NavigationDestination(
+            icon: Icon(Icons.people),
+            label: '순간 연결',
+          ),
+          NavigationDestination(
+            icon: Icon(Icons.timer),
+            label: '희귀 콘텐츠',
+          ),
+          NavigationDestination(
+            icon: Icon(Icons.leaderboard),
+            label: '리더보드',
           ),
         ],
-      ),
-      body: ListView.builder(
-        padding: EdgeInsets.all(16),
-        itemCount: features.length,
-        itemBuilder: (context, index) {
-          return Padding(
-            padding: EdgeInsets.only(bottom: 16),
-            child: features[index],
-          );
-        },
       ),
     );
   }
